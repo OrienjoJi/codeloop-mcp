@@ -1,0 +1,53 @@
+CodeLoop Marketing Materials License
+====================================
+
+Copyright (c) 2026 CodeLoop. All rights reserved.
+
+This repository contains marketing materials, documentation, and setup
+instructions for the CodeLoop product. It does NOT contain the source code
+of the CodeLoop MCP server, CLI, backend API, or website, which are
+proprietary and not distributed under this license.
+
+You are granted permission to:
+
+  1. View and read the contents of this repository.
+  2. Quote short excerpts of the README, documentation, and screenshots
+     for the purposes of reviewing, recommending, comparing, or
+     reporting on the CodeLoop product, provided that you attribute
+     CodeLoop and link to https://codeloop.tech.
+  3. Link to this repository, the website, and the published npm packages
+     ("codeloop" and "codeloop-mcp-server") in your own articles,
+     videos, and tutorials.
+  4. Submit issues and pull requests against this marketing repository
+     to suggest improvements to the documentation. Accepted contributions
+     are licensed under the same terms.
+
+You may NOT:
+
+  1. Redistribute the contents of this repository, in whole or in part,
+     as your own product or as part of another product.
+  2. Use the CodeLoop name, logo, or other trademarks in a way that
+     suggests endorsement, partnership, or affiliation without prior
+     written permission.
+  3. Attempt to reverse-engineer, decompile, or otherwise extract the
+     source code of the CodeLoop MCP server, CLI, backend, or website
+     beyond what is required for normal use as a customer.
+  4. Use any portion of this repository to train, fine-tune, or
+     evaluate machine learning models that are intended to compete
+     with CodeLoop or any of its features, without prior written
+     permission.
+
+The CodeLoop product itself (the MCP server, CLI, backend, and website)
+is governed by the CodeLoop Terms of Service available at
+https://codeloop.tech/terms and the CodeLoop Privacy Policy available
+at https://codeloop.tech/privacy.
+
+THIS REPOSITORY AND ITS CONTENTS ARE PROVIDED "AS IS", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE
+OF THIS REPOSITORY OR ITS CONTENTS.
+
+For commercial inquiries, partnership requests, or licensing questions,
+contact: support@codeloop.tech
