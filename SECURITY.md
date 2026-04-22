@@ -4,7 +4,7 @@
 
 If you believe you've found a security vulnerability in CodeLoop — the MCP server, CLI, backend, website, or this marketing repository — please **do not open a public GitHub issue**.
 
-Instead, email **[security@codeloop.tech](mailto:security@codeloop.tech)** (or [support@codeloop.tech](mailto:support@codeloop.tech) if you don't get a response within 24 hours) with:
+Instead, email **[support@codeloop.tech](mailto:support@codeloop.tech)** with the subject line `[SECURITY]` and include:
 
 1. A clear description of the vulnerability
 2. Steps to reproduce
