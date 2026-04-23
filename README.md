@@ -8,7 +8,7 @@
 
 **Stop manually testing AI-generated code.** CodeLoop is an MCP server that plugs into Cursor and Claude Code and turns the back-and-forth between you, your AI agent, and your bug list into a closed, automated loop — *Build → Verify → Diagnose → Fix → 94% confidence gate → ship.*
 
-[**Start free trial →**](https://codeloop.tech/signup) &nbsp;·&nbsp; [**Pricing**](https://codeloop.tech/pricing) &nbsp;·&nbsp; [**Docs**](https://codeloop.tech/docs) &nbsp;·&nbsp; [**Blog**](https://codeloop.tech/blog)
+[**Start free trial →**](https://codeloop.tech/signup) &nbsp;·&nbsp; [**Pricing**](https://codeloop.tech/pricing) &nbsp;·&nbsp; [**Docs**](https://codeloop.tech/docs) &nbsp;·&nbsp; [**Blog**](https://codeloop.tech/blog) &nbsp;·&nbsp; [**Earn 14 free days →**](CONTRIBUTOR_REWARDS.md)
 
 [![npm version](https://img.shields.io/npm/v/codeloop?label=codeloop&color=536bb2)](https://www.npmjs.com/package/codeloop)
 [![npm version](https://img.shields.io/npm/v/codeloop-mcp-server?label=codeloop-mcp-server&color=536bb2)](https://www.npmjs.com/package/codeloop-mcp-server)
@@ -261,6 +261,17 @@ If you're building anything for iOS, Android, macOS, Windows, Linux, or the web 
 Self-hosted backend is on the roadmap for Enterprise plans. Contact us at [support@codeloop.tech](mailto:support@codeloop.tech).
 
 More questions: **[codeloop.tech/docs/faq](https://codeloop.tech/docs/faq)**
+
+---
+
+## 🎁 Contributor Rewards Program — earn 14 free days
+
+Spotted a bug? Have an idea that would make CodeLoop better? Send it in. Every accepted submission earns you **14 days of CodeLoop on us** — your trial is extended, or 14 days of credit are added to your next billing period.
+
+- Submit from the dashboard: [codeloop.tech/dashboard/contribute](https://codeloop.tech/dashboard/contribute)
+- Or email: [contributions@codeloop.tech](mailto:contributions@codeloop.tech)
+
+Full details: [**CONTRIBUTOR_REWARDS.md**](CONTRIBUTOR_REWARDS.md)
 
 ---
 
