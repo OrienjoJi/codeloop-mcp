@@ -269,7 +269,7 @@ More questions: **[codeloop.tech/docs/faq](https://codeloop.tech/docs/faq)**
 Spotted a bug? Have an idea that would make CodeLoop better? Send it in. Every accepted submission earns you **14 days of CodeLoop on us** — your trial is extended, or 14 days of credit are added to your next billing period.
 
 - Submit from the dashboard: [codeloop.tech/dashboard/contribute](https://codeloop.tech/dashboard/contribute)
-- Or email: [contributions@mg.codeloop.tech](mailto:contributions@mg.codeloop.tech)
+- Or email [support@codeloop.tech](mailto:support@codeloop.tech?subject=%5BContribute%5D%20) with `[Contribute]` at the start of the subject line
 
 Full details: [**CONTRIBUTOR_REWARDS.md**](CONTRIBUTOR_REWARDS.md)
 
