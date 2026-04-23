@@ -23,7 +23,7 @@ The structured form captures everything reviewers need: OS, IDE, app type, frame
 
 ### 2. By email
 
-Email **[contributions@codeloop.tech](mailto:contributions@codeloop.tech)** *from the address on your CodeLoop account*. Attachments are forwarded automatically. We try to extract environment info from the body, so it really helps to include lines like:
+Email **[contributions@mg.codeloop.tech](mailto:contributions@mg.codeloop.tech)** *from the address on your CodeLoop account*. Attachments are forwarded automatically. We try to extract environment info from the body, so it really helps to include lines like:
 
 ```
 OS: macOS 14.5
